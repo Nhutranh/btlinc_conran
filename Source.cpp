@@ -33,7 +33,7 @@ void endgame();
 
 
 
-//phan ngoc nhu tranh
+///// phan tranh
 
 
 //
